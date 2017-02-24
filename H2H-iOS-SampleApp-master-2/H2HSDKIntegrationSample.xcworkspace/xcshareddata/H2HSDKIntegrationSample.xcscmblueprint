@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "d8eb65d1-c225-4460-840e-98c52da0bb97++2745",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "d8eb65d1-c225-4460-840e-98c52da0bb97++2745" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "d8eb65d1-c225-4460-840e-98c52da0bb97++2745" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "92E35248-D873-44CC-B767-4A7FF0D62883",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "d8eb65d1-c225-4460-840e-98c52da0bb97++2745" : "Projects\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "H2HSDKIntegrationSample",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Tutor_Group\/From Aditya\/H2H-iOS-SampleApp-master\/H2HSDKIntegrationSample.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/svn.springcomputing.lan\/svn\/Spring_POCs",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "d8eb65d1-c225-4460-840e-98c52da0bb97++2745"
+    }
+  ]
+}
